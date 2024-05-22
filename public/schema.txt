@@ -1,0 +1,55 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/",
+  "@type": "Organization",
+  "name": "Cigar Finder",
+  "url": "https://cigarfinder.com/",
+  "logo": "https://cigarfinder.com/img/logo_1712.a7a5692a.svg",
+  "email": "info@cigarfinder.com",
+  "description": "Cigarfinder.com is a great way to search and compare premium cigars, humidors, pipes, e-cigarettes, tobacco, accessories, and more from the top cigar retailers online. We help you narrow your search by selecting your preferences with prices, sizes, brands, sellers, strength, country, plus more.",
+  "address": {
+    "@type": "PostalAddress",
+    "postalCode": "89138",
+    "streetAddress": "Las Vegas Blvd"
+  },
+  "sameAs": [
+    "https://www.youtube.com/channel/UC-wPHdjAFYCb7N8Mvb9QSHg",
+    "https://www.instagram.com/cigarfinder/",
+    "https://twitter.com/FinderCigar",
+    "https://www.facebook.com/CigarFinder-101488222162301"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "Have as Question?\nYour Name\nYour email\nMessage\nSubmit",
+    "contactOption": "Have as Question?\nYour Name\nYour email\nMessage\nSubmit"
+  },
+  "aggregateRating": {
+    "@type": "AggregateRating",
+    "ratingValue": "10",
+    "ratingCount": "10",
+    "reviewCount": "120",
+    "bestRating": "5",
+    "worstRating": "1"
+  },
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "name": "Cigar Finder",
+  "url": "https://cigarfinder.com/"
+  "@context": "https://schema.org/",
+  "@type": "WebSite",
+  "url": "https://cigarfinder.com/",
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "Cigars\n\nSearch",
+    "query-input": "Cigars\n\nSearch"
+"@context": "https://schema.org/",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": "Cigars\nMachine Made Cigars\nTobacco\nBest Sellers\nE-Cigarettes\nAccessories",
+      "name": "Cigars\nMachine Made Cigars\nTobacco\nBest Sellers\nE-Cigarettes\nAccessories",
+      "item": "https://cigarfinder.com/sitemap.xml"
+    }
+  }
+</script>
